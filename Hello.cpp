@@ -3,6 +3,6 @@
 using namespace std; // Use standard namespace
 
 int main() {
-cout << "Hello, World!"; // Output statement
+cout << "Hello, World! Version 2"; // Output statement
 return 0; // Exit status
 }
